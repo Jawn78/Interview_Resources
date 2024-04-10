@@ -1,11 +1,11 @@
-#**Interview Prep**
+**Interview Prep**
 
 Use this guide as a resource for your job hunt. It covers basic
 information, such as how to prepare for different stages of the
 interview process. Note that the information is generalized, and you may
 need to modify it to your specific situation or field.
 
-##**Know your Resume!**
+**Know your Resume!**
 
 Candidates should also be prepared to speak to anyone about everything
 they list on their resumes. Any tool or technology a candidate lists on
@@ -20,7 +20,7 @@ potential for misrepresenting your resume, make sure any stats,
 outcomes, and technologies used in the multiple versions are
 consistent. 
 
-##**Come with Questions for the Interviewer**
+**Come with Questions for the Interviewer**
 
 Coming prepared with questions for your Interview isn\'t generally a
 technique to \"test\" or evaluate you, but it often leaves an impression
@@ -41,7 +41,7 @@ management style of your potential new manager? Do you want to know
 about growth opportunities or how the company supports professional
 growth? 
 
-##**The Phone Screen / Initial Interview**
+**The Phone Screen / Initial Interview**
 
 A phone screen is generally the first step in any interview process.
 Typically, at this initial stage, candidates will talk to a recruiter or
@@ -71,7 +71,7 @@ initial Interview:**
 
 -   What do you want to learn in your next job? (Professional Goals)
 
-##**Second-Round Interviews**
+**Second-Round Interviews**
 
 The next steps in the process will start to deviate depending on the
 company. In the Initial Interview, you should have gathered information
@@ -118,7 +118,7 @@ subsequently get hired.
     underperforming employee, and how you handled an inter-team
     conflict.
 
-##**Final Interviews**
+**Final Interviews**
 
 The Final Interview tends to be the final step for most companies:
 face-to-face meetings between yourself and a number of different team
@@ -161,7 +161,7 @@ prepared to answer things like:
 -   Tell me about a time you were behind on a deadline and how you
     handled it
 
-##**The Star Method**
+**The Star Method**
 
 The STAR method (Situation, Task, Action, Result) is important for
 responding to interview questions because it provides a structured
